@@ -1,1 +1,1 @@
-
+Bu Python projesi, kullanıcıların kitapları sepete eklemelerini, sepetlerine indirimler uygulamalarını ve satın almalarını sağlayan bir sistemdir. Ayrıca, bir admin paneli aracılığıyla kullanıcıların sepet bilgileri görüntülenebilir ve yönetilebilir. Kullanıcı verileri dosyalanarak korunur ve admin, bu verileri görebilir ve değiştirebilir.
